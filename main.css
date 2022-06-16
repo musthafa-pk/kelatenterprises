@@ -82,7 +82,7 @@ body {
 .home .heading {
   padding-top: 5%;
   font-size: 52px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, Haettenschweiler,/* 'Arial Narrow Bold', sans-serif*/;
 
 }
 
